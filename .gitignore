@@ -1,0 +1,9 @@
+/.idea
+/.gradle
+/local.properties
+**/build/
+*.iml
+*.apk
+*.aab
+app/release/
+gradle/wrapper/gradle-wrapper.jar
